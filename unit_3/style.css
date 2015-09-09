@@ -1,0 +1,18 @@
+body {
+	background: url("images/49358e78d998d144de79d48eae8c3dfa.jpg");
+	background-size:cover;
+	color: #fff;
+	font-family: Helvetica;
+}
+hr {
+	width: 200px;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+p {
+	font-size: 22px;
+}
+
