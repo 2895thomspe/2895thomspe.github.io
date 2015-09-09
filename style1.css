@@ -1,0 +1,19 @@
+body {
+	background: url("https://www.pinterest.com/pin/15481192446412943/");
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
+}
+
+hr {
+	width: 200px;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+p {
+	font-size: 22px;
+}
+
