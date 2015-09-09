@@ -1,0 +1,19 @@
+body {
+	background: url("http://i.imgur.com/gallery/W6RZOaQ.jpg");
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
+}
+
+hr {
+	width: 200px;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+p {
+	font-size: 22px;
+}
+
